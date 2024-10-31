@@ -1,0 +1,154 @@
+{
+    "englishAdda": {
+        "groupNo": 8,
+        "mentor": "ahosanul8@gmail.com",
+        "members": [
+            "mc0001",
+            "mc0002",
+            "mc0003"
+        ],
+        "attendance": [
+            {
+                "sessionNo": 2,
+                "currentDate": 20240929,
+                "presented": [
+                    "mc0001",
+                    "mc0002"
+                ],
+                "absentMc": [
+                    "mc0003"
+                ]
+            },
+            {
+                "sessionNo": 3,
+                "currentDate": 20240929,
+                "presented": [
+                    "mc0002"
+                ],
+                "absentMc": [
+                    "mc0001",
+                    "mc0003"
+                ]
+            },
+            {
+                "sessionNo": 4,
+                "currentDate": 20240929,
+                "presented": [
+                    "mc0001"
+                ],
+                "absentMc": [
+                    "mc0003",
+                    "mc0002"
+                ]
+            }
+        ]
+    }
+}
+{
+    "englishAdda": {
+        "groupNo": 8,
+        "mentor": "ahosanul8@gmail.com",
+        "members": [
+            "mc0001",
+            "mc0002"
+        ],
+        "attenDance": [
+            {
+                "showAttendance": true,
+                "sessionNo": 1,
+                "currentDate": 20240929,
+                "presented": [
+                    "mc0001",
+                ],
+                "absentMc": [
+                    "mc0001",
+                    "mc0002"
+                ]
+            },
+            {
+                "showAttendance": true,
+                "sessionNo":2,
+                "currentDate": 20240929,
+                "presented": [
+                    "mc0001",
+                ],
+                "absentMc": [
+                    "mc0001",
+                    "mc0002"
+                ]
+            },
+            {
+                "showAttendance": true,
+                "sessionNo":3,
+                "currentDate": 20240929,
+                "presented": [
+                    "mc0001",
+                ],
+                "absentMc": [
+                    "mc0001",
+                    "mc0002"
+                ]
+            },
+            {
+                "showAttendance": true,
+                "sessionNo":4,
+                "currentDate": 20240929,
+                "presented": [
+                    "mc0001",
+                ],
+                "absentMc": [
+                    "mc0001",
+                    "mc0002"
+                ]
+            },
+            {
+                "showAttendance": true,
+                "sessionNo":5,
+                "currentDate": 20240929,
+                "presented": [
+                    "mc0001",
+                ],
+                "absentMc": [
+                    "mc0001",
+                    "mc0002"
+                ]
+            },
+            {
+                "showAttendance": true,
+                "sessionNo":6,
+                "currentDate": 20240929,
+                "presented": [
+                    "mc0001",
+                ],
+                "absentMc": [
+                    "mc0001",
+                    "mc0002"
+                ]
+            },
+            {
+                "showAttendance": true,
+                "sessionNo":7,
+                "currentDate": 20240929,
+                "presented": [
+                    "mc0001",
+                ],
+                "absentMc": [
+                    "mc0001",
+                    "mc0002"
+                ]
+            },
+            {
+                "showAttendance": true,
+                "sessionNo":8,
+                "currentDate": 20240929,
+                "presented": [
+                    "mc0001",
+                ],
+                "absentMc": [
+                    "mc0001",
+                    "mc0002"
+                ]
+            },
+        ]
+    }
+}
